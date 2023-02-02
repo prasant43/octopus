@@ -1,4 +1,6 @@
-aksjas
-asjhaks
-ajsahsa
+git add <filename>
+git commit -m "add commnt"
+git remote -v
+git remote add <enter name> https://..........................
+git push bou master
 
